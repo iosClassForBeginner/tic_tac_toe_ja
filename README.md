@@ -34,8 +34,8 @@
 
   <div style="text-align:center"><img src="https://github.com/iosClassForBeginner/tic_tac_toe_ja/blob/master/videos/vid1.gif" /></div>
 
-#### 1, Collect photos → Drag & Drop your resources into your projects Assets.xcassets
-  <a href="https://github.com/iosClassForBeginner/tic_tac_toe_ja/tree/master/resources">resources</a>
+#### 1, 写真素材をダウンロードし、Assets.xcassets にドラッグ&ドロップで追加する。
+  <a href="https://raw.githubusercontent.com/iosClassForBeginner/tic_tac_toe_ja/master/resources.zip">resources</a>
   <div style="text-align:center"><img src ="https://github.com/iosClassForBeginner/tic_tac_toe_ja/blob/master/videos/vid2.gif" /></div>
 
 #### 2, Design app
